@@ -1,0 +1,5 @@
+{
+  "name": "IP REPO SHUFFLE",
+  "description": "A smart tool to shuffle, clean, and distribute IP addresses across columns while preventing grouping of similar IPs.",
+  "requestFramePermissions": []
+}
